@@ -1,0 +1,12 @@
+E:\project\zkdjs\zkdjs_v1.0\bin\Debug\zkdjs_v1.0.exe.config
+E:\project\zkdjs\zkdjs_v1.0\bin\Debug\zkdjs_v1.0.exe
+E:\project\zkdjs\zkdjs_v1.0\bin\Debug\zkdjs_v1.0.pdb
+E:\project\zkdjs\zkdjs_v1.0\bin\Debug\zkdjs_v1.0.xml
+E:\project\zkdjs\zkdjs_v1.0\obj\Debug\zkdjs_v1.0.vbproj.AssemblyReference.cache
+E:\project\zkdjs\zkdjs_v1.0\obj\Debug\zkdjs_v1._0.Form1.resources
+E:\project\zkdjs\zkdjs_v1.0\obj\Debug\zkdjs_v1._0.Resources.resources
+E:\project\zkdjs\zkdjs_v1.0\obj\Debug\zkdjs_v1.0.vbproj.GenerateResource.cache
+E:\project\zkdjs\zkdjs_v1.0\obj\Debug\zkdjs_v1.0.vbproj.CoreCompileInputs.cache
+E:\project\zkdjs\zkdjs_v1.0\obj\Debug\zkdjs_v1.0.exe
+E:\project\zkdjs\zkdjs_v1.0\obj\Debug\zkdjs_v1.0.xml
+E:\project\zkdjs\zkdjs_v1.0\obj\Debug\zkdjs_v1.0.pdb
