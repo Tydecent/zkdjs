@@ -1,0 +1,16 @@
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\bin\Debug\net8.0-windows\zkdjs_pressure.exe
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\bin\Debug\net8.0-windows\zkdjs_pressure.deps.json
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\bin\Debug\net8.0-windows\zkdjs_pressure.runtimeconfig.json
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\bin\Debug\net8.0-windows\zkdjs_pressure.dll
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\bin\Debug\net8.0-windows\zkdjs_pressure.pdb
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\zkdjs_pressure.Form1.resources
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\zkdjs_pressure.vbproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\zkdjs_pressure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\zkdjs_pressure.AssemblyInfoInputs.cache
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\zkdjs_pressure.AssemblyInfo.vb
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\zkdjs_pressure.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\zkdjs_pressure.dll
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\refint\zkdjs_pressure.dll
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\zkdjs_pressure.pdb
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\zkdjs_pressure.genruntimeconfig.cache
+C:\Users\Dell\Source\Repos\zkdjs_pressure\zkdjs_pressure\obj\Debug\net8.0-windows\ref\zkdjs_pressure.dll
